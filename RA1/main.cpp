@@ -1,3 +1,9 @@
+/*
+Liam O'Connell
+RA1
+Displays welcome message and takes user's name and section number to display.
+*/
+
 #include <iostream>
 
 int main() {
