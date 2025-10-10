@@ -1,0 +1,13 @@
+SCONST: <Please type the "coordinates" of three points>
+SCONST: <The circle's circumference passes through these points>
+SCONST: <Its radius is >
+
+Lines: 7
+Total Tokens: 3
+Identifiers: 0
+Numeric Literals: 0
+String Literals: 3
+STRING LITERALS:
+<Its radius is >
+<Please type the "coordinates" of three points>
+<The circle's circumference passes through these points>

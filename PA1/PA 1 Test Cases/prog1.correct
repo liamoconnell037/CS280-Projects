@@ -1,0 +1,54 @@
+IDENT: ($r)
+ASSOP: "="
+ICONST: [50]
+SEMICOL: ";"
+IDENT: ($flag)
+ASSOP: "="
+SCONST: <true>
+SEMICOL: ";"
+IF: "if"
+LPAREN: "("
+IDENT: ($Flag)
+SEQ: "@EQ"
+SCONST: <true>
+RPAREN: ")"
+LBRACES: "{"
+IDENT: (y_1)
+ASSOP: "="
+ICONST: [5]
+SEMICOL: ";"
+RBRACES: "}"
+ELSE: "Else"
+LBRACES: "{"
+IDENT: (y_1)
+ASSOP: "="
+LPAREN: "("
+FCONST: [7.5]
+RPAREN: ")"
+SEMICOL: ";"
+RBRACES: "}"
+PRINTLN: "PRINTln"
+SCONST: <Value = >
+COMMA: ","
+IDENT: ($r)
+COMMA: ","
+SCONST: <y_1 = >
+COMMA: ","
+IDENT: (Y_1)
+SEMICOL: ";"
+
+Lines: 10
+Total Tokens: 38
+Identifiers: 5
+Numeric Literals: 3
+String Literals: 3
+IDENTIFIERS:
+$Flag, $flag, $r, Y_1, y_1
+NUMERIC LITERALS:
+5
+7.5
+50
+STRING LITERALS:
+<Value = >
+<true>
+<y_1 = >

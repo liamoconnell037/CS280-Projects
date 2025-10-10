@@ -1,0 +1,3 @@
+SCONST: <Please type the "coordinates" of three points>
+SCONST: <The circle's circumference passes through these points>
+ERR: Error-Unrecognized Lexeme {'Its radius is 25 cm"} in line 6

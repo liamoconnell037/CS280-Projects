@@ -1,0 +1,6 @@
+Using 24-Hour Time Format:
+Value of Timestamp 1: 10:25:08
+Value of Timestamp 2: 08:15:00
+Value of Timestamp 3: 10:25:00
+Value of Timestamp 4: 08:00:00
+Timestamp 1 is greater than Timestamp 2.

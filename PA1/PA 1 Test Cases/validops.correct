@@ -1,0 +1,29 @@
+PLUS: "+"
+MULT: "*"
+SEQ: "@eq"
+SLTE: "@LE"
+REM: "%"
+EXPONENT: "**"
+NEQ: "=="
+NGTE: ">="
+NLT: "<"
+NLT: "<"
+ASSOP: "="
+AND: "&&"
+SREPEAT: ".x."
+CAT: "."
+NOT: "!"
+ASSOP: "="
+CADDA: "+="
+COMMA: ","
+CSUBA: "-="
+COMMA: ","
+CCATA: ".="
+SGT: "@Gt"
+OR: "||"
+
+Lines: 9
+Total Tokens: 23
+Identifiers: 0
+Numeric Literals: 0
+String Literals: 0

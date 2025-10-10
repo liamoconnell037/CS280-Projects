@@ -1,0 +1,57 @@
+IDENT: (float)
+IDENT: (x1)
+COMMA: ","
+IDENT: (y1)
+COMMA: ","
+IDENT: (x2)
+COMMA: ","
+IDENT: (y2)
+COMMA: ","
+ICONST: [2]
+IDENT: (x3)
+COMMA: ","
+IDENT: (y3)
+MULT: "*"
+IDENT: (w)
+COMMA: ","
+MINUS: "-"
+IDENT: (b)
+COMMA: ","
+IDENT: (r)
+SEMICOL: ";"
+IDENT: (string)
+IDENT: (str___1)
+COMMA: ","
+IDENT: ($str$____2)
+SEMICOL: ";"
+IDENT: (int)
+IDENT: (x$$$$3)
+COMMA: ","
+IDENT: (y)
+COMMA: ","
+IDENT: (z)
+SEMICOL: ";"
+IDENT: ($$)
+IDENT: ($_)
+IDENT: (Read)
+IDENT: (data)
+PRINTLN: "println"
+IF: "if"
+IDENT: (and)
+ELSE: "else"
+IDENT: (r)
+ASSOP: "="
+ICONST: [5]
+SEMICOL: ";"
+SLTE: "@le"
+
+Lines: 6
+Total Tokens: 46
+Identifiers: 22
+Numeric Literals: 2
+String Literals: 0
+IDENTIFIERS:
+$$, $_, $str$____2, Read, and, b, data, float, int, r, str___1, string, w, x$$$$3, x1, x2, x3, y, y1, y2, y3, z
+NUMERIC LITERALS:
+2
+5

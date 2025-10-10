@@ -1,0 +1,11 @@
+ICONST: [3456]
+ICONST: [1]
+COMMA: ","
+ICONST: [025]
+ICONST: [1234]
+ICONST: [45]
+ICONST: [4321]
+ICONST: [125]
+ICONST: [278]
+ICONST: [10]
+ERR: Error-Unrecognized Lexeme {_} in line 3

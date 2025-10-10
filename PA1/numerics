@@ -1,0 +1,4 @@
+#valid integer and real numbers
+23.5  15.25  4.587e+3
+0.75  128  2.56E-2
+0.47e4  .8

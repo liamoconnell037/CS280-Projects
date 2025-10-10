@@ -1,0 +1,8 @@
+FCONST: [23.5]
+FCONST: [15]
+CAT: "."
+FCONST: [0.75]
+FCONST: [0.8]
+ICONST: [3]
+IDENT: (e5)
+ERR: Error-Unrecognized Lexeme {27.57.} in line 4

@@ -1,0 +1,9 @@
+#Valid operators of the BPL language
++ *
+@eq @LE
+% **
+== >= < <=
+ && .x.
+.  ! =
+ += , -=, .=
+@Gt ||

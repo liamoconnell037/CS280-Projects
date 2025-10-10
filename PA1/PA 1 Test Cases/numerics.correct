@@ -1,0 +1,24 @@
+FCONST: [23.5]
+FCONST: [15.25]
+FCONST: [4.587e+3]
+FCONST: [0.75]
+ICONST: [128]
+FCONST: [2.56E-2]
+FCONST: [0.47e4]
+CAT: "."
+ICONST: [8]
+
+Lines: 4
+Total Tokens: 9
+Identifiers: 0
+Numeric Literals: 8
+String Literals: 0
+NUMERIC LITERALS:
+0.0256
+0.75
+8
+15.25
+23.5
+128
+4587
+4700

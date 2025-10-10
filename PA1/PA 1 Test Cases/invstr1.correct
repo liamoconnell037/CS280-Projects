@@ -1,0 +1,11 @@
+SCONST: <Please type the "coordinates" of three points>
+IDENT: (The)
+IDENT: (center)
+IDENT: (of)
+IDENT: (the)
+IDENT: (circle)
+IDENT: (through)
+IDENT: (these)
+IDENT: (points)
+IDENT: (is)
+ERR: Error-Unrecognized Lexeme {"Its radius is 25 cm'} in line 6

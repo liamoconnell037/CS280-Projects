@@ -1,0 +1,23 @@
+IDENT: (float)
+IDENT: (x1)
+COMMA: ","
+IDENT: (y1)
+COMMA: ","
+IDENT: (x2)
+COMMA: ","
+IDENT: (y2)
+COMMA: ","
+ICONST: [2]
+IDENT: (x3)
+COMMA: ","
+IDENT: (y3)
+MULT: "*"
+IDENT: (w)
+COMMA: ","
+MINUS: "-"
+IDENT: (b)
+COMMA: ","
+IDENT: (r)
+SEMICOL: ";"
+IDENT: (string)
+ERR: Error-Unrecognized Lexeme {@} in line 3
