@@ -1,0 +1,36 @@
+#Clean program 2 with nested if statements
+	size = 50;
+	$z = 6;
+	$w = -8 * size;
+	ind = 'true';
+	if (!ind && $z == 6) {
+		$k_1 = 5;
+		if($k_1 < 8)
+		{
+			ind = 'hello';
+			$k_1 = $k_1 + 1;
+		}
+		else
+		{
+			ind = 'goodbye';
+			$k_1 = $k_1 - 1;
+		};
+	}
+	else {
+		$k_1 = (7.5);
+		ind = 'goodbye';
+		
+	};
+	println ('Value = ', size ,'$k_1 = ', ind);
+	$r = $z + $w;
+	if($k_1 >= 4)
+	{
+		ind = 'hello';
+		$k_1 = $k_1 + 1;
+	}
+	else
+	{
+		ind = 'goodbye';
+		$k_1 = $k_1 -1;
+	};
+            

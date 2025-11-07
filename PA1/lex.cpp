@@ -375,6 +375,7 @@ LexItem getNextToken(istream& in, int& linenum) {
             }
             return LexItem(ERR, "\'" + str, linenum);
         }
+        
         if(isspace(c)) {
             continue;
         }

@@ -1,0 +1,59 @@
+Total Number of Lines: 10
+Number of Words: 120
+Number of Words with One Vowel: 35
+Number of Words with Two Vowels: 27
+Number of Words with Three or More Vowels: 30
+
+List of Words with Two Vowels and their number of occurrences:
+(TII): 1
+AI: 4
+Center: 1
+Design: 1
+Safety,: 1
+Through: 1
+across: 1
+also: 2
+applying: 1
+attack: 1
+build: 1
+data: 1
+model: 1
+models: 1
+models.: 1
+paper: 2
+power: 1
+reach,: 1
+safety: 1
+threats: 1
+trustworthy: 1
+white: 1
+
+List of Words with Three or More Vowels and their number of occurrences:
+Future: 1
+Principles: 1
+Research: 1
+Secure: 1
+Securing: 1
+Technology: 1
+Zero-Trust: 2
+addresses: 1
+compute: 1
+considers: 1
+critical: 1
+datasets,: 1
+deployment,: 1
+ensure: 1
+ethical: 1
+expose: 1
+framework: 2
+governments,: 1
+misuse,: 1
+offering: 1
+principles,: 1
+proposes: 1
+roadmap: 1
+runtime: 1
+secure: 1
+security,: 1
+surfaces,: 1
+training,: 1

@@ -1,0 +1,8 @@
+# Testing variable definition 
+	
+$x1 = 0.5; #numeric variable
+y_1 = 'Welcome!' .x. 3;	#string variable
+str$_ = 'Welcome' . Y_1;
+ $z = 0.0 ;
+	
+r_25 = 50.;

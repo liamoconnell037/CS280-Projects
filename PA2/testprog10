@@ -1,0 +1,8 @@
+# Testing missing operator  
+	
+$x1 = 0.5; #numeric variable
+y_1 = 'Welcome!' 3;	#string variable
+str$_ = 'Welcome' . Y_1;
+ $z = 0.0 ;
+	
+r_25 = 50.;e(z);

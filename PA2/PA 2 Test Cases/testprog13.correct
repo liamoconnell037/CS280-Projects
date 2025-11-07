@@ -1,0 +1,7 @@
+1. Line 14: Missing right Parenthesis after expression
+2. Line 14: Missing operand for an operator
+3. Line 14: Missing Expression in Assignment Statement
+4. Line 14: Incorrect Assignment Statement
+5. Line 14: Syntactic error in Program Body
+Unsuccessful Parsing
+Number of Syntax Errors 5

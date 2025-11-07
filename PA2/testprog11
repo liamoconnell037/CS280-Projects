@@ -1,0 +1,14 @@
+#Illegal relational Expression
+	$r = 50;
+	flag = "true";
+	if (10 < $r >= 50 ) 
+	{
+		$y_1 = 5;
+		$r += 20;
+	}
+	else {
+		$y_1 = (7.5);
+		$r -= 20;
+	};
+	println ('Value = ', $r, '$y_1 = ', flag);
+	$r = $r . flag;

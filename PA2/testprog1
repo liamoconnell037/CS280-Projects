@@ -1,0 +1,8 @@
+# Missing operand after operator  
+	
+$x1 = 0.5; #numeric variable
+y_1 = 'Welcome!' .x. 3;	#string variable
+ $z = 0.0 ;
+str$_ = 'Welcome' . ;
+
+r_25 = 50.;

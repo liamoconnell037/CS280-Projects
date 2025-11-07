@@ -1,0 +1,5 @@
+1. Line 14: Missing right brace for an Else-Clause
+2. Line 14: Incorrect If-Statement
+3. Line 14: Syntactic error in Program Body
+Unsuccessful Parsing
+Number of Syntax Errors 3

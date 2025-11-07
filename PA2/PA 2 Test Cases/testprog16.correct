@@ -1,0 +1,9 @@
+1. Line 11: Missing operand for an operator
+2. Line 11: Missing Expression in Assignment Statement
+3. Line 11: Incorrect Assignment Statement
+4. Line 11: Syntactic error in Program Body
+5. Line 11: Missing Statement for Else-Clause
+6. Line 11: Incorrect If-Statement
+7. Line 11: Syntactic error in Program Body
+Unsuccessful Parsing
+Number of Syntax Errors 7

@@ -1,0 +1,10 @@
+Securing the Future of AI Through Rigorous Safety, Resilience, and Zero-Trust Design Principles
+As foundational AI models grow in power and reach, they also expose new attack surfaces, vulnerabilities, and ethical risks. 
+This white paper by the Secure Systems Research Center (SSRC) at the Technology Innovation Institute (TII) outlines 
+a comprehensive framework to ensure security, resilience, and safety in large-scale AI models. By applying Zero-Trust principles, 
+the framework addresses threats across training, deployment, inference, and post-deployment monitoring. 
+It also considers geopolitical risks, model misuse, and data poisoning, offering strategies such as secure 
+compute environments, verifiable datasets, continuous validation, and runtime assurance. The paper proposes a roadmap
+for governments, enterprises, and developers to collaboratively build trustworthy AI systems for critical 
+applications.
+

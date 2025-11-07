@@ -1,0 +1,35 @@
+#Clean program 2 with nested if statements
+	$x = 6;
+	$v = -8 * $x;
+	str = 'true';
+	if (!str && $x == 6) {
+		$x_1 = 5;
+		
+	}
+	else {
+		$x_1 = (7.5);
+		str = 'goodbye';
+		if($v < 8)
+		{
+			str = 'hello';
+			$y_1 = $y_1 + 1;
+		}
+		else
+		{
+			st = 'goodbye';
+			$y_1 = $y_1 - 1;
+		};
+	};
+	println ('Value = ', $v ,'$y_1 = ', str);
+	$v = $v + $x_1;
+	if($x_1 >= 4)
+	{
+		st = 'hello';
+		$x_1 = $y_1 + 1;
+	}
+	else
+	{
+		flag = 'goodbye';
+		$x_1 = $y_1 -1;
+	};
+            

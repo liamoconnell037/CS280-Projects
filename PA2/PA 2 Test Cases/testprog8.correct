@@ -1,0 +1,6 @@
+1. Line 10: Missing semicolon at end of Statement
+2. Line 10: Missing Statement for Else-Clause
+3. Line 10: Incorrect If-Statement
+4. Line 10: Syntactic error in Program Body
+Unsuccessful Parsing
+Number of Syntax Errors 4
