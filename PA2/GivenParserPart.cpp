@@ -352,16 +352,16 @@ bool MultExpr(istream& in, int& line) {
 bool UnaryExpr(istream& in, int& line) {
 	LexItem t = Parser::GetNextToken(in, line);
 	if(t.GetToken() == MINUS) {
-		if(!ExponExpr(in, line, 0)) {
+		if(!ExponExpr(in, line, -1)) {
 			return false;
 		}
-	} else if (t.GetToken() == PLUS ||  t.GetToken() == NOT) {
+	} else if (t.GetToken() == PLUS) {
 		if(!ExponExpr(in, line, 1)) {
 			return false;
 		}
-	} else {
+	} else if (t.GetToken() == NOT) {
 		Parser::PushBackToken(t);
-		if(!ExponExpr(in, line, 1)) {
+		if(!ExponExpr(in, line, 2)) {
 			return false;
 		}
 	}

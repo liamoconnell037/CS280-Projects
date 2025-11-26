@@ -1,0 +1,15 @@
+# Clean Program
+#Testing if statement string condition and combined assignments
+	$r = 50;
+	flag = "true";
+	if (flag) 
+	{
+		$y_1 = 5;
+		$r += 20;
+	};
+	
+	$y_1 += (7.5);
+	$r -= 20;
+	flag .= $y_1;
+	
+	println ('$r = ', $r, ", ", '$y_1 = ', $y_1, ", ", 'flag = "', flag, '"');

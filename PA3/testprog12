@@ -1,0 +1,15 @@
+# Clean Program
+#Testing if statement if-then-clause
+	$r = 50;
+	flag = "true";
+	if ($r >= 40 ) 
+	{
+		$y_1 = 5;
+		$r += 20;
+	}
+	else {
+		$y_1 = (7.5);
+		$r -= 20;
+		flag = $r . flag;
+	};
+	println ('$r = ', $r, ", ", '$y_1 = ', $y_1, ", ", 'flag = "', flag, '"');

@@ -1,0 +1,14 @@
+# Testing remainder (%) operation  
+	
+$x1 = 3.5; #numeric variable
+y_1 = 'Welcome!';	#string variable
+num = "25.7";
+res_1 = num % $x1 ;
+println("res_1 = ", res_1);
+num = 47;
+res_2 = num % $x1 ;
+println("res_2 = ", res_2);
+res_3 = y_1 % num;	
+println("res_3 = ", res_3);
+
+r_25 = 50.;

@@ -1,0 +1,14 @@
+#Testing numeric relational operator with Boolean Operand
+	$r = 50;
+	flag = "true";
+	if (($r && flag) < 20 ) 
+	{
+		$y_1 = 5;
+		$r += 20;
+	}
+	else {
+		$y_1 = (7.5);
+		$r -= 20;
+	}
+	println ('Value = ', $r, '$y_1 = ', flag);
+	$r = $r . flag;

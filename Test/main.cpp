@@ -13,8 +13,5 @@ enum days {
 };
 
 int main() {
-    days today = wed;
-    today += mon; // :C
-    cout << "Day number: " << today << endl;
-
+    
 }

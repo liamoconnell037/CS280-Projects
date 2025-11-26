@@ -1,0 +1,27 @@
+#Clean program 1 with nested if statements
+	size = 50;
+	$z = 6;
+	$w = -8 * size;
+	word1 = 'good';
+	word2 = "pass";
+	if (word2 @gt word1) {
+		if($z < 8)
+		{
+			if($w < 0 && word1)
+			{
+				ind = 'hello';
+				$z = $z + 1;
+			}
+		}
+		else
+		{
+			ind = 'goodbye';
+			$z = $z - 1;
+		};
+	}
+	else {
+		$z = (7.5);
+		ind = 'goodbye';
+		
+	};
+	println ('$z = ', $z, ", ", 'ind = ', ind);

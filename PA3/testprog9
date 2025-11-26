@@ -1,0 +1,15 @@
+#Testing string relational operator with Boolean operand
+	$r = 0;
+	$x = 6;
+	$y = -8 * $x;
+	flag = 'true';
+	if (flag @gt ($x && $r)) {
+		$y_1 = -5;
+		flag = 'hello' . $y_1 * 4;
+	}
+	else {
+		$y_1 = -!(7.5);
+		flag = 'goodbye';
+	};
+	$res = ($r * ($y + $x ** 2)) / $y - $x;
+	println ('$res = ', $res, ", ", '$y_1 = ', $y_1, ", ", 'flag = "', flag, '"');

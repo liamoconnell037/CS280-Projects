@@ -1,0 +1,70 @@
+ErrorVal=ERROR
+doubleVal1=9.5
+doubleVal2=4.0
+StrVal1="CS280"
+StrVal2="Fall 2025"
+StrVal3="25"
+ERROR .x. ERROR is ERROR
+ERROR .x. 9.5 is ERROR
+ERROR .x. 4.0 is ERROR
+ERROR .x. CS280 is ERROR
+ERROR .x. Fall 2025 is ERROR
+ERROR .x. true is ERROR
+ERROR .x. false is ERROR
+ERROR .x. 25 is ERROR
+9.5 .x. ERROR is ERROR
+9.5 .x. 9.5 is 9.59.59.59.59.59.59.59.59.5
+9.5 .x. 4.0 is 9.59.59.59.5
+9.5 .x. CS280 is ERROR
+9.5 .x. Fall 2025 is ERROR
+9.5 .x. true is ERROR
+9.5 .x. false is ERROR
+9.5 .x. 25 is 9.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.59.5
+4.0 .x. ERROR is ERROR
+4.0 .x. 9.5 is 444444444
+4.0 .x. 4.0 is 4444
+4.0 .x. CS280 is ERROR
+4.0 .x. Fall 2025 is ERROR
+4.0 .x. true is ERROR
+4.0 .x. false is ERROR
+4.0 .x. 25 is 4444444444444444444444444
+CS280 .x. ERROR is ERROR
+CS280 .x. 9.5 is CS280CS280CS280CS280CS280CS280CS280CS280CS280
+CS280 .x. 4.0 is CS280CS280CS280CS280
+CS280 .x. CS280 is ERROR
+CS280 .x. Fall 2025 is ERROR
+CS280 .x. true is ERROR
+CS280 .x. false is ERROR
+CS280 .x. 25 is CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280CS280
+Fall 2025 .x. ERROR is ERROR
+Fall 2025 .x. 9.5 is Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025
+Fall 2025 .x. 4.0 is Fall 2025Fall 2025Fall 2025Fall 2025
+Fall 2025 .x. CS280 is ERROR
+Fall 2025 .x. Fall 2025 is ERROR
+Fall 2025 .x. true is ERROR
+Fall 2025 .x. false is ERROR
+Fall 2025 .x. 25 is Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025Fall 2025
+true .x. ERROR is ERROR
+true .x. 9.5 is ERROR
+true .x. 4.0 is ERROR
+true .x. CS280 is ERROR
+true .x. Fall 2025 is ERROR
+true .x. true is ERROR
+true .x. false is ERROR
+true .x. 25 is ERROR
+false .x. ERROR is ERROR
+false .x. 9.5 is ERROR
+false .x. 4.0 is ERROR
+false .x. CS280 is ERROR
+false .x. Fall 2025 is ERROR
+false .x. true is ERROR
+false .x. false is ERROR
+false .x. 25 is ERROR
+25 .x. ERROR is ERROR
+25 .x. 9.5 is 252525252525252525
+25 .x. 4.0 is 25252525
+25 .x. CS280 is ERROR
+25 .x. Fall 2025 is ERROR
+25 .x. true is ERROR
+25 .x. false is ERROR
+25 .x. 25 is 25252525252525252525252525252525252525252525252525

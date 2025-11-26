@@ -1,0 +1,10 @@
+# Clean Program
+#Testing NOT operation 
+	
+$x1 = 0; #numeric variable
+
+num = "25.7";
+y_1 = 'Welcome!';	#string variable
+
+println("y_1 = ", y_1);
+println("!y_1 = ", !y_1);

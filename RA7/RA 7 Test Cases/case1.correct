@@ -1,0 +1,70 @@
+ErrorVal=ERROR
+doubleVal1=9.5
+doubleVal2=4.0
+StrVal1="CS280"
+StrVal2="Fall 2025"
+StrVal3="25"
+ERROR * ERROR is ERROR
+ERROR * 9.5 is ERROR
+ERROR * 4.0 is ERROR
+ERROR * CS280 is ERROR
+ERROR * Fall 2025 is ERROR
+ERROR * true is ERROR
+ERROR * false is ERROR
+ERROR * 25 is ERROR
+9.5 * ERROR is ERROR
+9.5 * 9.5 is 90.2
+9.5 * 4.0 is 38.0
+9.5 * CS280 is ERROR
+9.5 * Fall 2025 is ERROR
+9.5 * true is ERROR
+9.5 * false is ERROR
+9.5 * 25 is 237.5
+4.0 * ERROR is ERROR
+4.0 * 9.5 is 38.0
+4.0 * 4.0 is 16.0
+4.0 * CS280 is ERROR
+4.0 * Fall 2025 is ERROR
+4.0 * true is ERROR
+4.0 * false is ERROR
+4.0 * 25 is 100.0
+CS280 * ERROR is ERROR
+CS280 * 9.5 is ERROR
+CS280 * 4.0 is ERROR
+CS280 * CS280 is ERROR
+CS280 * Fall 2025 is ERROR
+CS280 * true is ERROR
+CS280 * false is ERROR
+CS280 * 25 is ERROR
+Fall 2025 * ERROR is ERROR
+Fall 2025 * 9.5 is ERROR
+Fall 2025 * 4.0 is ERROR
+Fall 2025 * CS280 is ERROR
+Fall 2025 * Fall 2025 is ERROR
+Fall 2025 * true is ERROR
+Fall 2025 * false is ERROR
+Fall 2025 * 25 is ERROR
+true * ERROR is ERROR
+true * 9.5 is ERROR
+true * 4.0 is ERROR
+true * CS280 is ERROR
+true * Fall 2025 is ERROR
+true * true is ERROR
+true * false is ERROR
+true * 25 is ERROR
+false * ERROR is ERROR
+false * 9.5 is ERROR
+false * 4.0 is ERROR
+false * CS280 is ERROR
+false * Fall 2025 is ERROR
+false * true is ERROR
+false * false is ERROR
+false * 25 is ERROR
+25 * ERROR is ERROR
+25 * 9.5 is 237.5
+25 * 4.0 is 100.0
+25 * CS280 is ERROR
+25 * Fall 2025 is ERROR
+25 * true is ERROR
+25 * false is ERROR
+25 * 25 is 625.0

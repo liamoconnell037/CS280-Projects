@@ -1,0 +1,10 @@
+res_1 = 25.0
+res_2 = 2.0
+1. Line 11: Illegal operand type for the operation.
+2. Line 11: Missing Expression in Assignment Statement
+3. Line 11: Incorrect Assignment Statement.
+4. Line 11: Syntactic error in Program Body.
+5. Line 11: Missing Program
+
+Unsuccessful Interpretation
+Number of Errors 5

@@ -1,0 +1,6 @@
+#Testing illegal exponentiation operation
+	$r = "2";
+	x = 5.0;
+	
+	y_1 = x ** $r ** 2 ** 2;
+	println("Value of y_1 = ", y_1);

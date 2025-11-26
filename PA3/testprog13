@@ -1,0 +1,11 @@
+# Clean Program 
+#Testing string repeat operations 
+
+str = "Hello";	
+$x1 = 2.5; #numeric variable
+y_1 = 'Welcome!' .x. $x1;	#valid string repeat operation
+println ("String Repeat Factor: ", $x1);
+println ("String Repeat Result: ", y_1);
+str_1 = $x1 .x. 3;
+println ("String Repeat Factor: ", 3);
+println ("String Repeat Result: ", str_1);

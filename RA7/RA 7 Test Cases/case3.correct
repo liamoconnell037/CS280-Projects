@@ -1,0 +1,70 @@
+ErrorVal=ERROR
+doubleVal1=9.5
+doubleVal2=4.0
+StrVal1="CS280"
+StrVal2="Fall 2025"
+StrVal3="25"
+ERROR @eq ERROR is ERROR
+ERROR @eq 9.5 is ERROR
+ERROR @eq 4.0 is ERROR
+ERROR @eq CS280 is ERROR
+ERROR @eq Fall 2025 is ERROR
+ERROR @eq true is ERROR
+ERROR @eq false is ERROR
+ERROR @eq 25 is ERROR
+9.5 @eq ERROR is ERROR
+9.5 @eq 9.5 is true
+9.5 @eq 4.0 is false
+9.5 @eq CS280 is false
+9.5 @eq Fall 2025 is false
+9.5 @eq true is ERROR
+9.5 @eq false is ERROR
+9.5 @eq 25 is false
+4.0 @eq ERROR is ERROR
+4.0 @eq 9.5 is false
+4.0 @eq 4.0 is true
+4.0 @eq CS280 is false
+4.0 @eq Fall 2025 is false
+4.0 @eq true is ERROR
+4.0 @eq false is ERROR
+4.0 @eq 25 is false
+CS280 @eq ERROR is ERROR
+CS280 @eq 9.5 is false
+CS280 @eq 4.0 is false
+CS280 @eq CS280 is true
+CS280 @eq Fall 2025 is false
+CS280 @eq true is ERROR
+CS280 @eq false is ERROR
+CS280 @eq 25 is false
+Fall 2025 @eq ERROR is ERROR
+Fall 2025 @eq 9.5 is false
+Fall 2025 @eq 4.0 is false
+Fall 2025 @eq CS280 is false
+Fall 2025 @eq Fall 2025 is true
+Fall 2025 @eq true is ERROR
+Fall 2025 @eq false is ERROR
+Fall 2025 @eq 25 is false
+true @eq ERROR is ERROR
+true @eq 9.5 is ERROR
+true @eq 4.0 is ERROR
+true @eq CS280 is ERROR
+true @eq Fall 2025 is ERROR
+true @eq true is ERROR
+true @eq false is ERROR
+true @eq 25 is ERROR
+false @eq ERROR is ERROR
+false @eq 9.5 is ERROR
+false @eq 4.0 is ERROR
+false @eq CS280 is ERROR
+false @eq Fall 2025 is ERROR
+false @eq true is ERROR
+false @eq false is ERROR
+false @eq 25 is ERROR
+25 @eq ERROR is ERROR
+25 @eq 9.5 is false
+25 @eq 4.0 is false
+25 @eq CS280 is false
+25 @eq Fall 2025 is false
+25 @eq true is ERROR
+25 @eq false is ERROR
+25 @eq 25 is true

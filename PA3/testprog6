@@ -1,0 +1,8 @@
+# Illegal assignment of a boolean value to a variable 
+	
+$x1 = 0; #numeric variable
+
+num = "25.7";
+y_1 = !'Welcome!';	#string variable
+
+println("num = ", num, ", ", !y_1);
